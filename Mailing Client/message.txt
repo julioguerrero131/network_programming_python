@@ -1,0 +1,6 @@
+Hola mundo! 
+
+Este es un mensaje de prueba enviado por un Mailing Client hecho en Python!
+
+Adios!
+July
