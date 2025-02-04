@@ -5,7 +5,7 @@ import socket
 # use a different languaje
 
 target = '127.0.0.1' # victim's IP adress
-port = 80
+port = 5500 # free port
 fake_ip = '182.21.20.32' # my fake ip
 
 connections = 0
